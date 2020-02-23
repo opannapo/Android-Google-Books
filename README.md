@@ -9,3 +9,13 @@ Android Google Book
 - Json, Gson
 - Infinite Scroll, (Load More)
 - AppCompatRatingBar
+
+
+
+# Video (Example : How to use)
+https://youtu.be/hxiWDSHtq2M
+
+<a href="https://youtu.be/hxiWDSHtq2M" target="_blank">
+<img src="https://img.youtube.com/vi/hxiWDSHtq2M/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a>
+
